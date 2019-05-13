@@ -55,3 +55,5 @@ if __name__ == '__main__':
         for page in range(1,2):
             qne = QuNaEr(i,page = page)
             qne.qne_spider()
+
+
